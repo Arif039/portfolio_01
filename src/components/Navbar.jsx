@@ -6,7 +6,7 @@ const Navbar = () => {
             <div className="container py-2 flex justify-center md:justify-between items-center">
                 <div className="text-2xl font-bold hidden md:inline">ARIF</div>
 
-                <div className="space-x-6">
+                <div className="space-x-4">
                     <a href="#home" className="hover:text-gray-400" >Home</a>
                     <a href="#about" className="hover:text-gray-400" >About</a>
                     <a href="#skills" className="hover:text-gray-400" >Skills</a>
