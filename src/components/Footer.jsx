@@ -12,8 +12,8 @@ function Footer () {
 
             <div>
 
-            <div className="w-1/2 mx-auto">
-                <p className="sm:text-sm">
+            <div className="md:w-1/2 mx-auto">
+                <p className="text-sm">
                 Blockchain technology ensures security, transparency, and decentralization.
                 It is revolutionizing industries like finance, healthcare, and supply chains,
                 enabling trustless transactions and reducing fraud.
