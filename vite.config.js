@@ -10,7 +10,7 @@ export default defineConfig({
     tailwindcss(),
     
   ],
-  base:"/portfolio_01"
+  base:"/portfolio_02"
 })
 
 
